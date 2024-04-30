@@ -19,7 +19,7 @@ public class HomeWork4 {
     And
         Server is "cloudflare"
     And
-        Response body should be empty
+        PetStoreResponse body should be empty
     */
 
         @Test
